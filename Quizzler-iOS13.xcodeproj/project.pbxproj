@@ -78,6 +78,7 @@
 		F114C7D52E539808005CFEA3 /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				F114C7DC2E5398E7005CFEA3 /* QuizBrain.swift */,
 				F1C9BB272E4A791800D6589F /* Question.swift */,
 			);
 			path = Model;
@@ -95,7 +96,6 @@
 			isa = PBXGroup;
 			children = (
 				AD4BDE4D22D878BA005BA4CC /* ViewController.swift */,
-				F114C7DC2E5398E7005CFEA3 /* QuizBrain.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
